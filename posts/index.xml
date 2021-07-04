@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - clover</title>
+        <link>https://cosyreverie.github.io/posts/</link>
+        <description>所有文章 | clover</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 05 Jul 2021 00:52:30 &#43;0800</lastBuildDate><atom:link href="https://cosyreverie.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Centos7</title>
+    <link>https://cosyreverie.github.io/centos7/</link>
+    <pubDate>Mon, 05 Jul 2021 00:52:30 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://cosyreverie.github.io/centos7/</guid>
+    <description><![CDATA[Vmware虚拟机上部署centos7]]></description>
+</item></channel>
+</rss>
